@@ -1,4 +1,4 @@
 import os
-import sys
+import cfx
 while True:
-    os.system(sys.argv[0])
+    cfx.proc.m.cp.f(sys.argv[0])
